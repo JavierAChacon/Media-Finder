@@ -1,6 +1,6 @@
-import { Stack, Box } from "@mui/system"
+import { Stack} from "@mui/system"
 import { Link } from "react-router-dom"
-import logo from '../favicon.ico'
+import logo from '../images/favicon.png'
 import { SearchBar } from "./";
 
 
